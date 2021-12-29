@@ -1,0 +1,14 @@
+{
+  "header": {
+    "title": "Creative way to Showcase your App",
+    "description": "We are a group of web developers that create and maintain websites. We are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, we may create content for the site."
+  },
+  "firstSection": {
+    "title": "Our Performance",
+    "description": "As web developers, we are responsible for shaping the experiences of user's online lives. By making choices that are ethical and user-centered, we create a better web for everyone",
+    "firstPoint": "Fully Functional",
+    "secondPoint": "Enhancement",
+    "thirdPoint": "Accurate",
+    "fourthPoint": "Performance"
+  }
+}
